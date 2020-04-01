@@ -2,6 +2,8 @@
 
 <a href="https://bdetanico.github.io/COVID-19-Data-Analysis-Visualization/Project_COVID-19.html">Project Link</a>
 
+https://github.com/bdetanico/COVID-19-Data-Analysis-Visualization/blob/master/Project_COVID-19.html
+
 The outbreak of the new coronavirus disease (COVID-19), caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has quickly become a global health emergency.
 
 - On 31 December 2019, the WHO (World Health Organization) China Country Office was informed of cases of unknown aetiology pneumonia (unknown cause) detected in Wuhan City, Hubei Province of China.
