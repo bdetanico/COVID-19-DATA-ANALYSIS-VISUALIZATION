@@ -21,7 +21,7 @@
 # ## REAL-TIME COVID-19: DATA ANALYSIS & VISUALIZATION
 # 
 # #### Bernardo Carraro Detanico
-# #### 29 March 2020
+# #### 01 April 2020
 # 
 # The outbreak of the new coronavirus disease (COVID-19), caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has quickly become a global health emergency.
 # 
