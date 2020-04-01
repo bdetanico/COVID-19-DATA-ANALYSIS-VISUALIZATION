@@ -1,6 +1,6 @@
 # COVID-19: DATA ANALYSIS & VISUALIZATION
 
-<a href="https://bdetanico.github.io/COVID-19-Data-Analysis-Visualization/Project_COVID-19.html">Project Link</a>
+<a href="https://github.com/bdetanico/COVID-19-Data-Analysis-Visualization/blob/master/Project_COVID-19.html">Project Link</a>
 
 The outbreak of the new coronavirus disease (COVID-19), caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has quickly become a global health emergency.
 
