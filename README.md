@@ -2,9 +2,9 @@
 
 <a href="https://bdetanico.github.io/COVID-19-Data-Analysis-Visualization/Project_COVID-19_version_2.html">Project Link</a>
 
-Update log:¶
-22 May 2020: Dataset updated.
-23 May 2020: New section added - COVID-19 in United Kingdom Analysis.
+Update log:
+> 22 May 2020: Dataset updated.
+> 23 May 2020: New section added - COVID-19 in United Kingdom Analysis.
 
 The outbreak of the new coronavirus disease (COVID-19), caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has quickly become a global health emergency.
 
